@@ -16,3 +16,5 @@ A lightweight web application providing healthcare resources and support to rura
 ---
 
 Project built during Hackathon 2025.
+
+---
